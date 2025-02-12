@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class twothreefour {
+public class _234 {
 
     public boolean isPalindrome(ListNode head) {
         ArrayList<Integer> array = new ArrayList<Integer>();

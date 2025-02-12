@@ -1,33 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ef00216-9b50-427d-8afe-e80a358de589" name="Changes" comment="" />
+    <list default="true" id="5ef00216-9b50-427d-8afe-e80a358de589" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/easy/_383.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/_1910.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_1910.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2062.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2062.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_232.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_232.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_234.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_242.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_242.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2423.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2423.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_257.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_257.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_263.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_263.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_268.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_268.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_278.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_278.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_283.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_290.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_290.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_292.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_303.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_326.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_326.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_338.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_338.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_342.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_342.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_344.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_344.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_345.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_345.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_349.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_349.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_350.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_350.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_367.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_367.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_374.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_374.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_383.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/_387.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_387.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "konstantinTheGreat"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/konstantinTheGreat/LeetCode.git",
+    "accountId": "b87c1e43-da65-44c4-8e69-482be65ccdb5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2eE78gV4bC5muANXCBcP5pBNeJJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/user/Desktop/java4thsem/Leetcode/LeetCode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,7 +123,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711457733312</updated>
-      <workItem from="1711457734592" duration="1000" />
+      <workItem from="1711457734592" duration="2518000" />
+      <workItem from="1711460549366" duration="2061000" />
+      <workItem from="1711719463843" duration="1099000" />
+      <workItem from="1711817560639" duration="3767000" />
+      <workItem from="1711822893473" duration="134000" />
+      <workItem from="1712589147232" duration="3000" />
+      <workItem from="1712706316644" duration="1053000" />
+      <workItem from="1712758230410" duration="43000" />
+      <workItem from="1713853889038" duration="10208000" />
+      <workItem from="1714033902504" duration="30000" />
+      <workItem from="1714736152956" duration="1241000" />
+      <workItem from="1715011618843" duration="3101000" />
+      <workItem from="1715063408180" duration="57000" />
+      <workItem from="1716226557771" duration="4682000" />
+      <workItem from="1716882386573" duration="121000" />
+      <workItem from="1731865398932" duration="5586000" />
+      <workItem from="1731897237222" duration="1987000" />
+      <workItem from="1731934017496" duration="3267000" />
+      <workItem from="1732120514403" duration="2691000" />
+      <workItem from="1733677472875" duration="1593000" />
+      <workItem from="1733888578340" duration="1175000" />
+      <workItem from="1733914042393" duration="3974000" />
+      <workItem from="1735063381838" duration="6563000" />
+      <workItem from="1735326213505" duration="779000" />
+      <workItem from="1735819030342" duration="1714000" />
+      <workItem from="1736437230084" duration="23000" />
+      <workItem from="1736868028152" duration="4451000" />
+      <workItem from="1737206445693" duration="108000" />
+      <workItem from="1739198950323" duration="2231000" />
+      <workItem from="1739372635151" duration="2625000" />
     </task>
     <servers />
   </component>
