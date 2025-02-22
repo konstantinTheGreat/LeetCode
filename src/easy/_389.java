@@ -1,6 +1,30 @@
 package easy;
 
 public class _389 {
+
+    public char findTheDifference(String s, String t) {
+        int[] sLetters = countLetters(s);
+        int[] tLetters = countLetters(t);
+
+        char letterToReturn = ' ';
+        for (int i = 0; i < 26; i++) {
+            if (sLetters[i] != tLetters[i]) {
+                letterToReturn =  (char) (i + 'a');
+            }
+        }
+
+        return letterToReturn;
+    }
+
+    public int[] countLetters(String s) {
+        int[] letters = new int[26];
+
+        for (int i = 0; i < s.length(); i++) {
+            letters[s.charAt(i) - 'a']++;
+        }
+
+        return letters;
+    }
 }
 
  /* You are given two strings s and t.

@@ -4,41 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ef00216-9b50-427d-8afe-e80a358de589" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/easy/_383.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/_1910.java" afterDir="false" />
+    <list default="true" id="5ef00216-9b50-427d-8afe-e80a358de589" name="Changes" comment="_387">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_1910.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_2062.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2062.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_232.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_232.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_234.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_242.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_242.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_2423.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2423.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_257.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_257.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_263.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_263.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_268.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_268.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_278.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_278.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_283.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_290.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_290.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_292.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_303.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_326.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_326.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_338.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_338.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_342.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_342.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_344.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_344.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_345.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_345.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_349.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_349.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_350.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_350.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_367.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_367.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_374.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_374.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_383.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/_387.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_387.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/_389.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_389.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "konstantinTheGreat"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;konstantinTheGreat&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/konstantinTheGreat/LeetCode.git",
-    "accountId": "b87c1e43-da65-44c4-8e69-482be65ccdb5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/konstantinTheGreat/LeetCode.git&quot;,
+    &quot;accountId&quot;: &quot;b87c1e43-da65-44c4-8e69-482be65ccdb5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -152,11 +120,25 @@
       <workItem from="1736868028152" duration="4451000" />
       <workItem from="1737206445693" duration="108000" />
       <workItem from="1739198950323" duration="2231000" />
-      <workItem from="1739372635151" duration="2625000" />
+      <workItem from="1739372635151" duration="2852000" />
+      <workItem from="1740247254873" duration="933000" />
     </task>
+    <task id="LOCAL-00001" summary="_387">
+      <option name="closed" value="true" />
+      <created>1739385188514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739385188514</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="_387" />
+    <option name="LAST_COMMIT_MESSAGE" value="_387" />
   </component>
 </project>
