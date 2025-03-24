@@ -5,7 +5,7 @@ public class _414 {
     public int thirdMax(int[] nums) {
         if (nums.length >= 3) {
             double firstMax = 0.1;
-            double secondMax = 0.1;
+            double secondMax = 0.1; 
             double thirdMax = 0.1;
 
             for (int num : nums) {

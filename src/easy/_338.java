@@ -1,3 +1,5 @@
+package easy;
+
 public class _338 {
     class Solution {
         public int[] countBits(int n) {

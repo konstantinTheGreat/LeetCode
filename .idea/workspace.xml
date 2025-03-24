@@ -5,14 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef00216-9b50-427d-8afe-e80a358de589" name="Changes" comment="_392">
-      <change afterPath="$PROJECT_DIR$/src/easy/_401.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_404.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_405.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_409.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_414.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_191.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_1971.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_415.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_434.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_572.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_new338.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/_153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/_200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/_49.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_257.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_257.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_338.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_338.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/_414.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_414.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +36,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -58,7 +73,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/user/Desktop/java4thsem/Leetcode/LeetCode&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/user/Documents/java4thsem/Leetcode/LeetCode&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -133,6 +148,14 @@
       <workItem from="1740985291351" duration="6061000" />
       <workItem from="1741184371479" duration="4192000" />
       <workItem from="1741785344900" duration="1619000" />
+      <workItem from="1742137870458" duration="12956000" />
+      <workItem from="1742216070405" duration="9289000" />
+      <workItem from="1742396761443" duration="837000" />
+      <workItem from="1742409330795" duration="2377000" />
+      <workItem from="1742754965250" duration="3756000" />
+      <workItem from="1742835437959" duration="8000" />
+      <workItem from="1742836471116" duration="21000" />
+      <workItem from="1742839915370" duration="1689000" />
     </task>
     <task id="LOCAL-00001" summary="_387">
       <option name="closed" value="true" />
