@@ -4,29 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ef00216-9b50-427d-8afe-e80a358de589" name="Changes" comment="_392">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_191.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_1971.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_415.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_434.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_572.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_new338.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/_153.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/_200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/_49.java" afterDir="false" />
+    <list default="true" id="5ef00216-9b50-427d-8afe-e80a358de589" name="Changes" comment="a lot of different problems">
+      <change afterPath="$PROJECT_DIR$/src/easy/_190.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_338.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_338.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/_414.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_414.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/_1971.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_1971.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/_200.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/_200.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +137,8 @@
       <workItem from="1742754965250" duration="3756000" />
       <workItem from="1742835437959" duration="8000" />
       <workItem from="1742836471116" duration="21000" />
-      <workItem from="1742839915370" duration="1689000" />
+      <workItem from="1742839915370" duration="5257000" />
+      <workItem from="1742897473514" duration="2262000" />
     </task>
     <task id="LOCAL-00001" summary="_387">
       <option name="closed" value="true" />
@@ -181,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741010027601</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="a lot of different problems">
+      <option name="closed" value="true" />
+      <created>1742843784528</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742843784528</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +182,7 @@
     <MESSAGE value="_387" />
     <MESSAGE value="_389" />
     <MESSAGE value="_392" />
-    <option name="LAST_COMMIT_MESSAGE" value="_392" />
+    <MESSAGE value="a lot of different problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="a lot of different problems" />
   </component>
 </project>
