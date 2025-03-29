@@ -3,27 +3,18 @@ package easy;
 public class _434 {
 
     public int countSegments(String s) {
-            if (s.length() == 1) {
-                return s.charAt(0) == ' ' ? 0 : 1;
+        int count = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) != ' ' && (i + 1 == s.length() || s.charAt(i + 1) == ' ' )) {
+                count++;
             }
 
-            char emptyChar = ' ';
+        }
 
-            int count = 0;
-
-            for (int i = 0; i < s.length(); i++) {
-                if (s.charAt(i) == emptyChar || i == 0) {
-                    continue;
-                } else if (s.charAt(i - 1) == emptyChar ) {
-                    count++;
-                }
-            }
-
-            return count;
+        return count;
     }
 
 }
-
 
     /* Given a string s, return the number of segments in the string.
 
