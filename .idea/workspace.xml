@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ef00216-9b50-427d-8afe-e80a358de589" name="Changes" comment="a lot of different problems">
-      <change afterPath="$PROJECT_DIR$/src/easy/_441.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_448.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/_133.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/_208.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/_39.java" afterDir="false" />
+    <list default="true" id="5ef00216-9b50-427d-8afe-e80a358de589" name="Changes" comment="a few problems solved">
+      <change afterPath="$PROJECT_DIR$/src/medium/_128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/_238.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/_434.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_434.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/_200.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/_200.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/_347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/_347.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +143,10 @@
       <workItem from="1742998860194" duration="461000" />
       <workItem from="1743078983148" duration="4203000" />
       <workItem from="1743094895331" duration="3416000" />
-      <workItem from="1743174360379" duration="6008000" />
+      <workItem from="1743174360379" duration="6727000" />
+      <workItem from="1743296977338" duration="702000" />
+      <workItem from="1743353273718" duration="5012000" />
+      <workItem from="1743438339481" duration="2685000" />
     </task>
     <task id="LOCAL-00001" summary="_387">
       <option name="closed" value="true" />
@@ -181,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742843784528</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="a few problems solved">
+      <option name="closed" value="true" />
+      <created>1743209449210</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743209449211</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +199,7 @@
     <MESSAGE value="_389" />
     <MESSAGE value="_392" />
     <MESSAGE value="a lot of different problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="a lot of different problems" />
+    <MESSAGE value="a few problems solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="a few problems solved" />
   </component>
 </project>
