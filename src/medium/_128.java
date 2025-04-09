@@ -1,9 +1,28 @@
 package medium;
 
+import java.util.*;
+
 public class _128 {
 
     public int longestConsecutive(int[] nums) {
+        Set<Integer> numbers = new HashSet<>();
+        int longest = 0;
 
+        for(int num : nums) {
+            numbers.add(num);
+        }
+
+        for (int num : numbers) {
+            if (!numbers.contains(num - 1)) {
+                int length = 1;
+                while(numbers.contains(num + length)) {
+                    length++;
+                }
+                longest = Math.max(length, longest);
+            }
+        }
+
+        return longest;
     }
 }
 
