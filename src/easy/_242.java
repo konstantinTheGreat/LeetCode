@@ -1,3 +1,5 @@
+package easy;
+
 import java.util.Hashtable;
 
 public class _242 {

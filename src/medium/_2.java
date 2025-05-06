@@ -1,3 +1,7 @@
+package medium;
+
+import easy.ListNode;
+
 import java.math.BigInteger;
 
 public class _2 {
