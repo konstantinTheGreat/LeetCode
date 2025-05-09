@@ -1,3 +1,5 @@
+package easy;
+
 public class _374  {
     public int guessNumber(int n) {
         int k = 1;

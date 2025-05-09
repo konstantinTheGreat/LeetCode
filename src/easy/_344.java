@@ -1,3 +1,5 @@
+package easy;
+
 public class _344 {
     class Solution {
         public void reverseString(char[] s) {

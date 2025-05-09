@@ -1,3 +1,5 @@
+package easy;
+
 public class _342 {
 
     class Solution {

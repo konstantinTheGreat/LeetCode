@@ -1,3 +1,5 @@
+package easy;
+
 public class _326 {
     class Solution {
         public boolean isPowerOfThree(int n) {

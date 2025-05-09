@@ -1,3 +1,5 @@
+package easy;
+
 class Solution {
     public int missingNumber(int[] nums) {
         int missingNumberSum = 0;

@@ -1,3 +1,5 @@
+package easy;
+
 public class _263 {
 
         public boolean isUgly(int n) {

@@ -1,3 +1,5 @@
+package easy;
+
 public class _367 {
     public boolean isPerfectSquare(int num) {
 
