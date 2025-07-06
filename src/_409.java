@@ -1,5 +1,3 @@
-package easy;
-
 public class _409 {
     public int longestPalindrome(String s) {
 

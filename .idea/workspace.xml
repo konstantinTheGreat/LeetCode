@@ -5,25 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef00216-9b50-427d-8afe-e80a358de589" name="Changes" comment="a few problems solved">
-      <change afterPath="$PROJECT_DIR$/src/_482.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/_278.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_485.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_492.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_495.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/_496.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/_53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/_55.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_257.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_257.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_263.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_263.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_268.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_268.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_278.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_283.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_290.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_290.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_292.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_303.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_326.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_326.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_342.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_342.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_344.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_344.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_345.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_345.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_349.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_349.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_350.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_350.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_367.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_367.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_374.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_374.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_482.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_482.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/_409.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_409.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +40,11 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/konstantinTheGreat/LeetCode.git&quot;,
-    &quot;accountId&quot;: &quot;b87c1e43-da65-44c4-8e69-482be65ccdb5&quot;
+    &quot;accountId&quot;: &quot;4b3c85be-cbca-493c-bf64-a78b56a91f27&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/_482.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/medium/_11.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -84,6 +75,36 @@
   }
 }</component>
   <component name="RunManager">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="711e0b15-ffcd-4696-ada9-0bfbf9e474b0" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LeetCode" />
@@ -172,7 +193,14 @@
       <workItem from="1746454686610" duration="2638000" />
       <workItem from="1746545037522" duration="5359000" />
       <workItem from="1746553276329" duration="59000" />
-      <workItem from="1746794264571" duration="3365000" />
+      <workItem from="1746794264571" duration="5052000" />
+      <workItem from="1746899593847" duration="2043000" />
+      <workItem from="1747144698019" duration="45000" />
+      <workItem from="1748363340701" duration="3507000" />
+      <workItem from="1748431883623" duration="1888000" />
+      <workItem from="1748612859034" duration="3418000" />
+      <workItem from="1748799976170" duration="54000" />
+      <workItem from="1751820588394" duration="2332000" />
     </task>
     <task id="LOCAL-00001" summary="_387">
       <option name="closed" value="true" />
@@ -246,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746553314572</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="a few problems solved">
+      <option name="closed" value="true" />
+      <created>1746799605823</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746799605823</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
